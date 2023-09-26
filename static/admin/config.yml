@@ -10,19 +10,6 @@ media_folder: 'static/uploads' # Media files will be stored in the repo under st
 public_folder: '/uploads' # The src attribute for uploaded media will begin with /uploads
 
 collections:
-  - name: 'blog' # Used in routes, e.g., /admin/collections/blog
-    label: 'Blog' # Used in the UI
-    folder: 'src/blog/posts' # The path to the folder where the documents are stored
-    create: true # Allow users to create new documents in this collection
-    slug: '{{slug}}' # Filename template, e.g., title.md
-    fields: # The fields for each document, usually in front matter
-      - { label: 'Layout', name: 'layout', widget: 'hidden', default: 'blog' }
-      - { label: 'Title', name: 'title', widget: 'string' }
-      - { label: 'Description', name: 'description', widget: 'string' }
-      - { label: 'Publish Date', name: 'date', widget: 'datetime' }
-      - { label: 'Thumbnail Photo', name: 'thumbnail', widget: 'image' }
-      - { label: 'Featured Photo', name: 'featured', widget: 'image' }
-      - { label: 'Body', name: 'body', widget: 'markdown' }
   - name: 'portfolio' # Used in routes, e.g., /admin/collections/blog
     label: 'Portfolio' # Used in the UI
     folder: 'src/portfolio/posts' # The path to the folder where the documents are stored
@@ -31,8 +18,6 @@ collections:
     fields: # The fields for each document, usually in front matter
       - { label: 'Layout', name: 'layout', widget: 'hidden', default: 'blog' }
       - { label: 'Title', name: 'title', widget: 'string' }
-      - { label: 'Client', name: 'client', widget: 'string' }
-      - { label: 'Web link', name: 'link', widget: 'string' }
       - { label: 'Description', name: 'description', widget: 'string' }
       - { label: 'Publish Date', name: 'date', widget: 'datetime' }
       - { label: 'Featured Photo', name: 'featured', widget: 'image' }
