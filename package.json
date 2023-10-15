@@ -31,6 +31,8 @@
 	"type": "module",
 	"dependencies": {
 		"mdsvex": "^0.11.0",
-		"svelte-intersection-observer": "^0.10.1"
+		"svelte-intersection-observer": "^0.10.1",
+		"svelte-markdown": "^0.4.0",
+		"svelte-tiny-slider": "^1.1.1"
 	}
 }

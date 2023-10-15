@@ -1,5 +1,7 @@
 <script lang="ts">
+	import Gallery from '$lib/components/Gallery.svelte';
 	import Hero from '$lib/components/hero/Hero.svelte';
+	export let data;
 </script>
 
 <svelte:head>
@@ -9,3 +11,4 @@
 </svelte:head>
 
 <Hero />
+<Gallery items={data.posts} />

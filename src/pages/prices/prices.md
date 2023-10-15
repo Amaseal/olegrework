@@ -54,7 +54,7 @@ slider:
     Booklet, brochure, catalog, posters layout design: **from 200€**
 
     Social media accaunts and banners design: **from 100€**
-  Images:
+  images:
     - /uploads/1r_f7d625a23f.jpeg
     - /uploads/photo_2022_01_26_16_07_35_0832fb9718.jpg
     - /uploads/photo_2022_01_26_16_07_55_af149f972e.jpg
