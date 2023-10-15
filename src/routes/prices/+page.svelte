@@ -17,7 +17,7 @@
 		<div class="headingWrapper">
 			<Wrapper>
 				<h1 in:fly={{ x: -100, duration: 1000, delay: 75 }} out:fly={{ x: -100, duration: 50 }}>
-					{data.prices.heading}
+					{data.prices.title}
 				</h1>
 			</Wrapper>
 		</div>
@@ -98,7 +98,7 @@
 	}
 	h1,
 	h2 {
-		font-size: clamp(3.2rem, 2.8vw, 60px);
+		font-size: clamp(3rem, 2.7vw, 60px);
 		letter-spacing: clamp(0.794rem, 10.8px, 1rem);
 		text-transform: uppercase;
 		font-weight: 300;

@@ -63,7 +63,7 @@
 		height: 100vh;
 	}
 	h1 {
-		font-size: 60px;
+		font-size: 54px;
 		font-weight: 300;
 		text-transform: uppercase;
 		letter-spacing: 10px;
@@ -74,7 +74,7 @@
 	p {
 		text-transform: uppercase;
 		font-weight: 300;
-		font-size: 22px;
+		font-size: 20px;
 		letter-spacing: 5px;
 	}
 </style>
