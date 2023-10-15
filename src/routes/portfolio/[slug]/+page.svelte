@@ -3,8 +3,9 @@
 	import Wrapper from '$lib/components/Wrapper.svelte';
 
 	export let data;
+	console.log(data.content);
 
-	import { fade, fly } from 'svelte/transition';
+	import { fly } from 'svelte/transition';
 </script>
 
 <svelte:head>
@@ -21,7 +22,7 @@
 			</Wrapper>
 			<Wrapper>
 				<div in:fly={{ y: 100, duration: 1000, delay: 75 }} out:fly={{ y: 100, duration: 50 }}>
-					<SvelteMarkdown source={data.post.description} />
+					<SvelteMarkdown source={data.content.html} />
 				</div>
 			</Wrapper>
 		</div>
@@ -34,6 +35,10 @@
 </section>
 
 <style>
+	:global(a) {
+		color: var(--accent-color);
+		font-weight: 500;
+	}
 	h1 {
 		font-size: 38px;
 		margin-bottom: 10px;

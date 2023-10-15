@@ -1,5 +1,7 @@
 import { error } from '@sveltejs/kit'
 
+//@ts-ignore
+
 export async function load({ fetch }) {
     try {
         const res = await fetch('/api/portfolio')

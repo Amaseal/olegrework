@@ -3,7 +3,7 @@ export type Categories = 'sveltekit' | 'svelte'
 export type Portfolio = {
 	layout: string
 	title: string
-	description: string
+	body: string
 	date: string
 	thumbnail: string
 	images: string[]

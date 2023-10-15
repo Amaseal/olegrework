@@ -12,7 +12,9 @@
 
 <style>
 	a {
+		color: white;
 		padding: 5px 10px;
+		font-weight: 300;
 		transition: color 0.2s ease-in-out, font-weight 0.2s ease-in-out;
 	}
 	a:hover {
