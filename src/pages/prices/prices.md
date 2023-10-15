@@ -18,8 +18,7 @@ prices:
       * Stationery design (Business card, Letterhead, Envelope, etc.)
       * Typography ussage
       * Pattern,  Composition
-      * Specific need could be included 
-      *
+      * Specific need could be included
     image: /uploads/asset-3-2x.png
   - price: ~1 500 €
     description: >-
