@@ -6,6 +6,16 @@ thumbnail: /uploads/medium_dsc_9668_7bcbec4da6.jpg
 images:
   - /uploads/large_dsc_9653_a1f2ec29e1.jpg
   - /uploads/large_dsc_9656_0b4a50d61d.jpg
+  - /uploads/large_dsc_9672_bbe0309d24.jpg
+  - /uploads/large_dsc_9657_fdd3574adb.jpg
+  - /uploads/large_dsc_9659_3d73e091f4.jpg
+  - /uploads/large_dsc_9666_9ff775a632.jpg
+  - /uploads/large_dsc_9668_7bcbec4da6.jpg
+  - /uploads/large_dsc_9796_79c97e897c.jpg
+  - /uploads/large_dsc_9773_1255eaea7d.jpg
+  - /uploads/large_dsc_9791_7b237f13ca.jpg
+  - /uploads/large_dsc_9785_b0c5c9980c.jpg
+  - /uploads/large_dsc_9789_4ed7527f7d.jpg
 ---
 Client: www.hidogchews.com
 
