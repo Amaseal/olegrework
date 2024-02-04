@@ -3,7 +3,6 @@
 	import Wrapper from '$lib/components/Wrapper.svelte';
 
 	export let data;
-	console.log(data.content);
 
 	import { fly } from 'svelte/transition';
 </script>
