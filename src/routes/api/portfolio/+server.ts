@@ -4,7 +4,7 @@ import { json } from '@sveltejs/kit'
 async function getPosts() {
 	let posts: Portfolio[] = []
 
-	const paths = import.meta.glob('/src/news/*.md', { eager: true })
+	const paths = import.meta.glob('/src/portfolio/posts/*.md', { eager: true })
 
 	for (const path in paths) {
 		const file = paths[path]
