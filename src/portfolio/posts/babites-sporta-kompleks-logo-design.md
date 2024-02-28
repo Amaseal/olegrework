@@ -11,7 +11,6 @@ images:
   - /uploads/babites_sporta_kompleks_2_05_836fc4662e.jpg
   - /uploads/babites_sporta_kompleks_2_06_8b36248c1d.jpg
   - /uploads/babites_sporta_kompleks_2_07_ca9f3a6670.jpg
-  - /uploads/babites_sporta_kompleks_2_07_ca9f3a6670.jpg
   - /uploads/babites_sporta_kompleks_2_artboard_28_bad756e905.jpg
 ---
 Body
