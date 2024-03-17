@@ -1,6 +1,6 @@
 ---
 layout: blog
-title: Woodstone logo and brand guidelines design
+title: Woodstone logo and identity design
 date: 2024-03-17T18:07:06.234Z
 thumbnail: /uploads/large_thumbnail_woodstone_eea27e3fcf.jpg
 images:
