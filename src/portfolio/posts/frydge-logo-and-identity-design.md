@@ -19,4 +19,4 @@ images:
   - /uploads/frydge_13_199052fc9e.jpg
   - /uploads/frydge_14_83f5eae5d5.jpg
 ---
-Body
+*No description yet*
