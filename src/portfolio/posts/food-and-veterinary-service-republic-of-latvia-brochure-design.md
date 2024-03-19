@@ -11,4 +11,4 @@ images:
   - /uploads/pvd_brosura_mockups_artboard_6_dbad043ec7.jpg
   - /uploads/pvd_brosura_mockups_artboard_5_4d0ce5d430.jpg
 ---
-*no description yet*
+All illustrations are hand drawn specifically for PVD
