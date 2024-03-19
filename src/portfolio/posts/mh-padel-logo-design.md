@@ -2,7 +2,7 @@
 layout: blog
 title: MH Padel logo design
 date: 2024-03-17T18:36:15.316Z
-thumbnail: /uploads/large_thumbnail_06fe20bb77.jpg
+thumbnail: /uploads/large_mh_padel_06_b2005ac3c6.jpg
 images:
   - /uploads/large_mh_padel_01_bba981cdb8.jpg
   - /uploads/large_mh_padel_02_2b19aebf96.jpg
