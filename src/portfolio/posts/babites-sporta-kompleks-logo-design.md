@@ -13,4 +13,4 @@ images:
   - /uploads/babites_sporta_kompleks_2_07_ca9f3a6670.jpg
   - /uploads/babites_sporta_kompleks_2_artboard_28_bad756e905.jpg
 ---
-Body
+*no description yet*
