@@ -13,4 +13,4 @@ images:
   - /uploads/bio_artboard_8_05e838185e.jpg
   - /uploads/bio_artboard_9_fffeff970f.jpg
 ---
-Body
+*no description yet*
